@@ -1,6 +1,6 @@
 # Welcome to Solo Digital Solution! 
 
-[![GitHub stars](https://img.shields.io/github/stars/Solo-Digital-Solution?style=social)](https://github.com/Solo-Digital-Solution)
+[![GitHub stars](https://img.shields.io/github/stars/Solo-Digital-Solution/sds-pmi-project?style=social)](https://github.com/Solo-Digital-Solution/sds-pmi-project)
 
 ## About Us
 
