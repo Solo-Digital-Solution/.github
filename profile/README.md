@@ -24,4 +24,4 @@ Visit our website: [solodigitalsolution.wordpress.com](https://solodigitalsoluti
 ----
 Thank you for visiting our organization! We look forward to your contributions and involvement.
 
-This project is part of the Software Project course in the Bachelor's program in Informatics, Faculty of Information Technology and Data Science, Universitas Sebelas Maret.
+**This project is part of the Software Project course in the Bachelor's program in Informatics, Faculty of Information Technology and Data Science, Universitas Sebelas Maret.**
